@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"title": "Project 1",
+		"description": "A portfolio website built with React and Tailwind CSS.",
+		"image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F096baapsqqt9fks0us99.png",
+		"githubLink": "https://github.com/example/project1"
+	},
+	{
+		"id": 2,
+		"title": "Project 2",
+		"description": "An e-commerce platform built with Node.js and MongoDB.",
+		"image": "https://beecrowd.com/wp-content/uploads/2024/04/2022-11-25-Nodes-js.jpg",
+		"githubLink": "https://github.com/example/project2"
+	},
+	{
+		"id": 3,
+		"title": "Project 3",
+		"description": "A mobile app built with React Native.",
+		"image": "https://www.atakinteractive.com/hubfs/react-native%20%281%29.png",
+		"githubLink": "https://github.com/example/project3"
+	}
+]
